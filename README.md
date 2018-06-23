@@ -1,0 +1,1 @@
+# before-after-compare-bar-lite
